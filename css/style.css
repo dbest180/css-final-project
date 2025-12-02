@@ -68,9 +68,7 @@ img {
         grid-column: span 2;
     }
     
-    figure:last-child {
-        grid-column: auto;
-    }
+    
 }
 
 /* Reduced motion preference */
